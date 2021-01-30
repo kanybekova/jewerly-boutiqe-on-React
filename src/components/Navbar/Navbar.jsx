@@ -15,7 +15,7 @@ const Navbar = () => {
 
   return (
     <div className="hamburger-menu" style={{ width: "100%" }}>
-      <input id="menu__toggle" type="checkbox" />
+      {/* <input id="menu__toggle" type="checkbox" /> */}
       <label className="menu__btn" for="menu__toggle">
         <span></span>
       </label>
